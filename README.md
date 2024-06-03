@@ -1,7 +1,7 @@
  <h2 align="center">Responsive Netflix Clone</h2>
 
   In this project, I have created Responsive Netflix Clone, The project is built using HTML5, CSS3 & JavaScript.
-  <a href="https://Urvashi9776.github.io/NetflixClone/"><strong>➥ Live Demo</strong></a>
+  <a href="[https://Urvashi9776.github.io/NetflixClone/](https://github.com/Urvashi9776/NetflixClone)"><strong>➥ Live Demo</strong></a>
 
 </div>
 ### Demo Screeshots
@@ -21,7 +21,7 @@ sudo git clone https://github.com/Urvashi9776/NetflixClone.git
 Windows:
 
 ```bash
-git clone https://github.com/Urvashi9776/NetflixClone.git
+[git clone https://github.com/Urvashi9776/NetflixClone.git](https://github.com/Urvashi9776/NetflixClone)
 ```
 
 
